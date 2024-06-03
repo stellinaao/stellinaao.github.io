@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
+title: Stellina Ao
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! I'm Stellina Ao, a Bioengineering M.S. student at UCLA. I'm interested in all things neuroscience, computers, and math.
+
+Outside of academics, I enjoy dancing (ballet + Chinese classical), creative activities (painting, crocheting, etc.), and reading. I also enjoy spending time with my boisterous nine-year-old German Shepherd Flora. 
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

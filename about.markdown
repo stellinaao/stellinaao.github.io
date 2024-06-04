@@ -5,7 +5,7 @@ permalink: /about/
 image: /images/stellina_professionalpicture.jpg
 ---
 
-![Stellina's Professional Picture]({{ page.image }})
+![Stellina's Professional Picture]({{ page.image }}){: width="250" }
 
 Hello! I'm Stellina Ao, a Bioengineering M.S. student at UCLA. I'm interested in all things neuroscience, computers, and math.
 

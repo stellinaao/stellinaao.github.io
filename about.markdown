@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
+image: /images/stellina_professionalpicture.jpg
 ---
+
+![Stellina's Professional Picture]({{ page.image }})
 
 Hello! I'm Stellina Ao, a Bioengineering M.S. student at UCLA. I'm interested in all things neuroscience, computers, and math.
 

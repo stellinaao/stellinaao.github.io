@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/be175
 venue: "UCLA, Bioengineering"
-date: Spring 2024
+date: 2025-03-26
 location: "Los Angeles, USA"
 ---
 

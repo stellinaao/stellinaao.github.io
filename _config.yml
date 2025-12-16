@@ -24,9 +24,9 @@ repository               : "stellinaao/stellinaao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Stellina Ao's Academic Portfolio"
-  pronouns         : "she/her"  
-  bio              : "Bioengineering M.S."
+  name             : "Stellina Ao"
+  pronouns         : # "she/her"  
+  bio              : "Neuroscience Nerd"
   location         : "Los Angeles"
   employer         : "UCLA"
   uri              : "stellinaao.github.io"

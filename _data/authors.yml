@@ -1,18 +1,9 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Stellina Ao:
+  name        : "Stellina Ao"
+  uri         : "https://stellinaao.github.io"
+  email       : "stellina@ucla.edu"
+  bio         : "Stellina Ao is a M.S. student in Bioengineering at UCLA, advised by Dr. Anne Churchland. She uses computational techniques to study the corticostriatal circuits supporting changes in decision making strategies across aging."
+  avatar      : "stellina-headshot.jpg"
+  google_plus : ""

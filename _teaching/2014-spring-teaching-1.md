@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/ucla/be175
+permalink: /teaching/be175
 venue: "UCLA, Bioengineering"
 date: Spring 2024
 location: "Los Angeles, USA"

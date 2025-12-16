@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Stellina"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/

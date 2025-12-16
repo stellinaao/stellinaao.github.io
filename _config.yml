@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Stellina Ao's Academic Portfolio"
+title                    : "Stellina Ao | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Stellina Ao"
 description              : &description "Stellina Ao's Academic Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -17,6 +17,8 @@ url                      : https://stellinaao.github.io # The base hostname & pr
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stellinaao/stellinaao.github.io"
+
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

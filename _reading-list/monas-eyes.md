@@ -1,7 +1,7 @@
 ---
 title: "Mona's Eyes"
-collection: novels
-type: "currently-reading"
+collection: reading-list
+type: "novels"
 permalink: /reading-list/monas-eyes
 date: 2025-12-15
 ---

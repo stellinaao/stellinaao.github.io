@@ -3,16 +3,16 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #14213D;
+$primary-color              : #2d4579;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#000, $primary-color, 50%);
 
-$background                 : #14213D;
+$background                 : #17233d;
 $background-light           : mix(#fff, $background, 20%);
 $background-lighter         : mix(#fff, $background, 90%);
-$text                       : #e5e5e5;
-$link                       : #fca311; /*mix($primary-color, $text, 40%);*/
+$text                       : #dedfe6;
+$link                       : #e2ae10; /*mix($primary-color, $text, 40%);*/
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
 $footer                     : mix(#000, $background, 30%);

@@ -6,7 +6,7 @@
 $primary-color              : #2d4579;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
-$light-primary-color        : mix(#000, $primary-color, 50%);
+$light-primary-color        : mix(#000, $primary-color, 25%);
 
 $background                 : #17233d;
 $background-light           : mix(#fff, $background, 20%);
@@ -38,7 +38,6 @@ $sidebar-screen-min-width   : 1024px;
 html[data-theme="dark"] {
     --global-base-color                 : #{$background};
     --global-bg-color                   : #{$background};
-    --global-footer-text-color                 : #{$text};
     --global-footer-bg-color            : #{$footer};
     --global-border-color               : #{$light-primary-color};
     --global-dark-border-color          : #{$background-light};

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "stellina" # Currently available options are "default", "air"
 title                    : "Stellina Ao | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Stellina Ao"

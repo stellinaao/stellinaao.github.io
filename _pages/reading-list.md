@@ -13,18 +13,20 @@ I tend to keep multiple volumes in rotation, ideally spanning a diverse range of
 
 Currently Reading
 -----
-* Mona's Eyes - Thomas Schlesser
 * Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter
-* The Complete Short Stories of Ernest Hemingway - Ernest Hemingway
 * The Sense of Style - Steven Pinker
+* The Complete Short Stories of Ernest Hemingway - Ernest Hemingway
 * Doughnut Economics: 7 Ways to Think Like a 21st Century Economist - Kate Raworth
 * An Immense World - Ed Yong
+* Thus Spoke Zarathustra - Friedrich Nietzsche
 * Projections - Karl Deisseroth
 * The Myth of Sisyphus - Albert Camus
 * Katabasis - R.F. Kuang
 
 2025
 -----
+* Mona's Eyes - Thomas Schlesser
+* Bad Blood - John Carreyrou
 * The Bluest Eye - Toni Morrison
 * The Secret History - Donna Tartt
 * Battle Hymn of the Tiger Mother - Amy Chua

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "stellina" # Currently available options are "default", "air"
 title                    : "Stellina Ao | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Stellina Ao"
@@ -31,7 +31,7 @@ author:
   bio              : "Bioengineering M.S. @ UCLA"
   location         : "Los Angeles"
   employer         : "UCLA"
-  uri              : "stellinaao.github.io"
+  uri              : # "stellinaao.github.io"
   email            : "stellina@ucla.edu" 
 
   # Academic websites
@@ -127,7 +127,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -224,6 +224,12 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
+    output: true
+    permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  reading-list:
     output: true
     permalink: /:collection/:path/
   publications:

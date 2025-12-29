@@ -1,0 +1,55 @@
+/* ==========================================================================
+   Stellina's Custom Color Palette (dark)
+   ========================================================================== */
+
+/* Color codes used for the theme */
+$primary-color              : #2d4579;
+$dark-primary-color         : mix(#000, $primary-color, 40%);
+$darker-primary-color       : mix(#000, $primary-color, 60%);
+$light-primary-color        : mix(#000, $primary-color, 25%);
+
+$background                 : #17233d;
+$background-light           : mix(#fff, $background, 20%);
+$background-lighter         : mix(#fff, $background, 90%);
+$text                       : #dedfe6;
+$link                       : #e2ae10; /*mix($primary-color, $text, 40%);*/
+$link-dark                  : mix(#000, $link, 25%);
+$link-light                 : mix(#fff, $link, 25%);
+$footer                     : mix(#000, $background, 30%);
+
+/* Color codes used for the site */
+$danger-color               : #820f0b;
+$info-color                 : #0e3d72;
+$notice-color               : #4a5b67;
+$success-color              : #0c500c;
+$warning-color              : #c09b23;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Dark theme for the site */
+html[data-theme="dark"] {
+    --global-base-color                 : #{$background};
+    --global-bg-color                   : #{$background};
+    --global-footer-bg-color            : #{$footer};
+    --global-border-color               : #{$light-primary-color};
+    --global-dark-border-color          : #{$background-light};
+    --global-code-background-color      : #fafafa;
+    --global-code-text-color            : #{$darker-primary-color};
+    --global-fig-caption-color          : #{$light-primary-color};
+    --global-link-color                 : #{$link};
+    --global-link-color-hover           : #{$link-dark};
+    --global-link-color-visited         : #{$link-light};
+    --global-masthead-link-color        : #{$text};
+    --global-masthead-link-color-hover  : #{$link};
+    --global-text-color                 : #{$text};
+    --global-text-color-light           : #{$light-primary-color};
+    --global-thead-color                : #{$background-lighter};
+}

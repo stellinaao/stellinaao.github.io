@@ -1,7 +1,8 @@
-body {
-  background-image: url("/images/cajal/cajal-cortex-transparent-1.svg");
-  background-repeat: no-repeat;
-  background-size: cover;      /* fills screen */
-  background-attachment: fixed; /* optional: parallax effect */
+
+.hero {
+  background-image: url("/images/cajal/cajal-cortex-transparent-3.png");
+  background-size: cover;
   background-position: center;
+  mix-blend-mode: lighten;
+  opacity: 0.3;
 }

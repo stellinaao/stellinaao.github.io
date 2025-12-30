@@ -3,6 +3,8 @@ layout: archive
 title: "Reading List"
 permalink: /reading-list/
 author_profile: true
+description: "Stellina Ao's reading lists, including works she is currently parsing and her most recently completed volumes in 2025."
+keywords: "Stellina Ao, neuroscience, computation, compuational, computational neuroscience, systems neuroscience, machine learning, research, UCLA, reading, reading list"
 ---
 
 {% include base_path %}

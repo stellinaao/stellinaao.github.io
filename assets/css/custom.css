@@ -1,0 +1,7 @@
+body {
+  background-image: url("/images/cajal/cajal-cortex-transparent-1.svg");
+  background-repeat: no-repeat;
+  background-size: cover;      /* fills screen */
+  background-attachment: fixed; /* optional: parallax effect */
+  background-position: center;
+}

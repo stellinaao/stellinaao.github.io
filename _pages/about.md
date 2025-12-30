@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+description: "Stellina Ao's academic portfolio. Exhibits her current research with Anne Churchland at UCLA in computational and systems neuroscience, as well as her teaching experiences, reading lists, and CV."
+keywords: "Stellina Ao, neuroscience, computation, compuational, computational neuroscience, systems neuroscience, machine learning, research, teaching, UCLA, reading, reading list, CV"
 ---
 
 

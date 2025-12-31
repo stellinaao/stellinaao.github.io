@@ -7,7 +7,4 @@ venue: "UCLA"
 redirect_from:
   - /1-sharedgain
 ---
-
-Changes in Shared Neural Activity Across the Lifespan
-======
 ...

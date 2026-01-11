@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "stellina" # Currently available options are "default", "air"
-title                    : "Stellina Ao | Academic Portfolio"
+title                    : "Stellina Ao - Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Stellina Ao"
 description              : &description "Stellina Ao's Academic Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -270,8 +270,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _research
   - scope:
       path: ""
@@ -279,8 +279,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""

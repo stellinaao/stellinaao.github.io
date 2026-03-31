@@ -18,12 +18,15 @@ Currently Reading
 * Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter
 * The Sense of Style - Steven Pinker
 * The Complete Short Stories of Ernest Hemingway - Ernest Hemingway
-* Doughnut Economics: 7 Ways to Think Like a 21st Century Economist - Kate Raworth
 * An Immense World - Ed Yong
 * Thus Spoke Zarathustra - Friedrich Nietzsche
-* Projections - Karl Deisseroth
 * The Myth of Sisyphus - Albert Camus
-* Katabasis - R.F. Kuang
+
+2026
+----
+* All the Light We Cannot See - Anthony Doerr
+* Artemis - Andy Weir
+* Shadow Cell - Andrew and Jihi Bustamante
 
 2025
 -----
@@ -39,3 +42,9 @@ Currently Reading
 * Yellowface - R.F. Kuang
 * Hidden Potential: The Science of Achieving Greater Things - Adam Grant
 * Blink: The Power of Thinking Without Thinking - Malcolm Gladwell
+
+Shelved - To Be Read!
+-----
+* Doughnut Economics: 7 Ways to Think Like a 21st Century Economist - Kate Raworth
+* Projections - Karl Deisseroth
+* The Stranger - Albert Camus

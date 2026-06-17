@@ -23,11 +23,13 @@ Currently Reading
 
 2026
 ----
-* When We Cease to Understand the World - Benjamin Labatut [weird and whimsical, the line between reality and fiction was penumbral]
+* The Remains of the Day - Kazuo Ishiguro [a masterfully written warning]
+* Never Let Me Go - Kazuo Ishiguro [haunting in its reflection of meekness and acceptance]
+* When We Cease to Understand the World - Benjamin Labatut [weird and whimsical; a penumbral line between reality and fiction]
 * The Da Vinci Code - Dan Brown [recommended by a friend, didn't enjoy it]
 * All the Light We Cannot See - Anthony Doerr [poignant and gripping]
-* Artemis - Andy Weir [a light, silly, and fun read]
-* Shadow Cell - Andrew and Jihi Bustamante [a quick and indulgent read about undercover CIA agents]
+* Artemis - Andy Weir [a silly story]
+* Shadow Cell - Andrew and Jihi Bustamante [an indulgent read about undercover CIA agents]
 
 2025
 -----

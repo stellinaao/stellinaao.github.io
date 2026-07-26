@@ -9,7 +9,7 @@ description: "Stellina Ao's personal website. Exhibits her current research with
 keywords: "Stellina Ao, Stellina, neuroscience, computation, compuational, computational neuroscience, systems neuroscience, machine learning, research, teaching, UCLA, reading, reading list, CV"
 ---
 
-
+---
 I am a second-year M.S. student in Bioengineering at UCLA, advised by Dr. Anne Churchland. I use computational techniques to study how the dynamics of corticostriatal circuits support distinct decision-making strategies. I think the word 'dynamics' is overused in computational neuroscience, though I certainly recognize that I am part of the problem.
 
 I love to learn about all things neuroscience, computers, and (pure) math. Please reach out if you'd like to chat about those topics or otherwise!

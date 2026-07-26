@@ -19,6 +19,9 @@ main:
 
   - title: "Reading List"
     url: /reading-list/   
+
+  - title: "Friends"
+    url: /friends/
         
   # - title: "Paper Notes"
   #   url: /paper-notes/

@@ -23,6 +23,7 @@ Currently Reading
 
 2026
 ----
+* The Book Thief - Markus Zusak [gently devastating; what a work of fiction (p/n)]
 * The Remains of the Day - Kazuo Ishiguro [a masterfully written warning]
 * Never Let Me Go - Kazuo Ishiguro [haunting in its reflection of meekness and acceptance]
 * When We Cease to Understand the World - Benjamin Labatut [weird and whimsical; a penumbral line between reality and fiction]

@@ -15,6 +15,7 @@ I tend to keep multiple volumes in rotation, spanning a diverse array of subject
 
 Currently Reading
 -----
+* The Brain from Inside Out - György Buzsáki
 * Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter (Ch. 6, The Propositional Calculus)
 * The Sense of Style - Steven Pinker (Ch. 5, Arcs of Coherence)
 * The Complete Short Stories of Ernest Hemingway - Ernest Hemingway (popcorning)
@@ -23,14 +24,17 @@ Currently Reading
 
 2026
 ----
-* The Book Thief - Markus Zusak [gently devastating; what a work of fiction (p/n)]
-* The Remains of the Day - Kazuo Ishiguro [a masterfully written warning]
-* Never Let Me Go - Kazuo Ishiguro [haunting in its reflection of meekness and acceptance]
-* When We Cease to Understand the World - Benjamin Labatut [weird and whimsical; a penumbral line between reality and fiction]
-* The Da Vinci Code - Dan Brown [recommended by a friend, didn't enjoy it]
-* All the Light We Cannot See - Anthony Doerr [poignant and gripping]
-* Artemis - Andy Weir [a silly story]
-* Shadow Cell - Andrew and Jihi Bustamante [an indulgent read about undercover CIA agents]
+* Slaughterhouse-Five - Kurt Vonnegut [*what Martyr! was trying to be, i think*]
+* Martyr! - Kaveh Akbar [*i felt like i was observing a piece in the MoMA that i just don't get*]
+* East of Eden - John Steinbeck [*easily my favorite book*]
+* The Book Thief - Markus Zusak [*gently devastating*]
+* The Remains of the Day - Kazuo Ishiguro [*a masterfully written warning*]
+* Never Let Me Go - Kazuo Ishiguro [*haunting in its reflection of meekness and acceptance*]
+* When We Cease to Understand the World - Benjamin Labatut [*weird and whimsical; a penumbral line between reality and fiction*]
+* The Da Vinci Code - Dan Brown [*recommended by a friend, didn't enjoy it*]
+* All the Light We Cannot See - Anthony Doerr [*poignant and gripping*]
+* Artemis - Andy Weir [*a silly story*]
+* Shadow Cell - Andrew and Jihi Bustamante [*an indulgent autobiography written by undercover CIA agents*]
 
 2025
 -----
@@ -49,6 +53,11 @@ Currently Reading
 
 Shelved - To Be Read!
 -----
+* Crime and Punishment - Fyodor Dostoevsky
+* The Odyssey - Homer
+* A Confederacy of Dunces - John Kennedy Toole
+* Lucky Jim - Kingsley Amis
+* Stoner - John Williams
 * Doughnut Economics: 7 Ways to Think Like a 21st Century Economist - Kate Raworth
 * Projections - Karl Deisseroth
 * The Stranger - Albert Camus

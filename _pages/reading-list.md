@@ -20,9 +20,9 @@ Currently Reading
 * The Sense of Style - Steven Pinker (Ch. 5, Arcs of Coherence)
 * The Complete Short Stories of Ernest Hemingway - Ernest Hemingway (popcorning)
 * An Immense World - Ed Yong (Ch. 7, Surface Vibrations)
-* The Myth of Sisyphus - Albert Camus (Ch. 1.3, Philisophical Suicide)
+* The Myth of Sisyphus - Albert Camus (Ch. 1.3, Philosophical Suicide)
 
-2026
+2026 
 ----
 * Slaughterhouse-Five - Kurt Vonnegut [*what Martyr! was trying to be, i think*]
 * Martyr! - Kaveh Akbar [*i felt like i was observing a piece in the MoMA that i just don't get*]
@@ -44,12 +44,8 @@ Currently Reading
 * The Secret History - Donna Tartt
 * Battle Hymn of the Tiger Mother - Amy Chua
 * Determined: The Science of Life without Free Will - Robert Sapolsky
-* How to Win Friends and Influence People - Dale Carnegie
 * A Primate's Memoir - Robert Sapolsky
-* The 48 Laws of Power - Robert Greene
 * Yellowface - R.F. Kuang
-* Hidden Potential: The Science of Achieving Greater Things - Adam Grant
-* Blink: The Power of Thinking Without Thinking - Malcolm Gladwell
 
 Shelved - To Be Read!
 -----

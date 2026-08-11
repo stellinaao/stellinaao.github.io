@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Friends w/ Websites"
+title: "Friends"
 permalink: /friends/
 author_profile: true
 description: "Stellina Ao's friends and colleagues (with websites)"

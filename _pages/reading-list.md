@@ -13,17 +13,18 @@ My education has cultivated a habit of reading broadly and voraciously. I enjoy 
 
 I tend to keep multiple volumes in rotation, spanning a diverse array of subjects. This habit creates an environment conducive to cross-fertilization of thought, and often results in a reading list as long as the set I have finished that year. I’m always happy to exchange thoughts on any of these books!
 
-Currently Reading
+Currently Reading 
 -----
 * The Brain from Inside Out - György Buzsáki
 * Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter (Ch. 6, The Propositional Calculus)
 * The Sense of Style - Steven Pinker (Ch. 5, Arcs of Coherence)
-* The Complete Short Stories of Ernest Hemingway - Ernest Hemingway (popcorning)
 * An Immense World - Ed Yong (Ch. 7, Surface Vibrations)
 * The Myth of Sisyphus - Albert Camus (Ch. 1.3, Philosophical Suicide)
 
 2026 
 ----
+* Crime and Punishment - Fyodor Dostoevsky [*a classic for a reason*]
+* Stoner - John Williams [*a solemn and romantic tribute to the life of an academic*]
 * Slaughterhouse-Five - Kurt Vonnegut [*what Martyr! was trying to be, i think*]
 * Martyr! - Kaveh Akbar [*i felt like i was observing a piece in the MoMA that i just don't get*]
 * East of Eden - John Steinbeck [*easily my favorite book*]
@@ -49,11 +50,9 @@ Currently Reading
 
 Shelved - To Be Read!
 -----
-* Crime and Punishment - Fyodor Dostoevsky
 * The Odyssey - Homer
 * A Confederacy of Dunces - John Kennedy Toole
 * Lucky Jim - Kingsley Amis
-* Stoner - John Williams
 * Doughnut Economics: 7 Ways to Think Like a 21st Century Economist - Kate Raworth
 * Projections - Karl Deisseroth
 * The Stranger - Albert Camus

@@ -9,20 +9,16 @@ keywords: "Stellina Ao, neuroscience, computation, compuational, computational n
 
 {% include base_path %}
 
-My education has cultivated a habit of reading broadly and voraciously. I enjoy public-facing science writing, am catching up on classic twentieth-century literature, and seek out funny novels.
-
-I tend to keep multiple volumes in rotation, spanning a diverse array of subjects. This habit creates an environment conducive to cross-fertilization of thought, and often results in a reading list as long as the set I have finished that year. I’m always happy to exchange thoughts on any of these books!
+I like books! I'm always happy to exchange thoughts on any of these volumes.
 
 Currently Reading 
 -----
-* The Brain from Inside Out - György Buzsáki
-* Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter (Ch. 6, The Propositional Calculus)
-* The Sense of Style - Steven Pinker (Ch. 5, Arcs of Coherence)
-* An Immense World - Ed Yong (Ch. 7, Surface Vibrations)
-* The Myth of Sisyphus - Albert Camus (Ch. 1.3, Philosophical Suicide)
+* The Master and Margarita - Mikhail Bulgakov
+* Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter 
 
 2026 
 ----
+* A Confederacy of Dunces - John Kennedy Toole [*ignatius can eat dirt*]
 * Crime and Punishment - Fyodor Dostoevsky [*a classic for a reason*]
 * Stoner - John Williams [*a solemn and romantic tribute to the life of an academic*]
 * Slaughterhouse-Five - Kurt Vonnegut [*what Martyr! was trying to be, i think*]
@@ -39,6 +35,8 @@ Currently Reading
 
 2025
 -----
+* The Sense of Style - Steven Pinker 
+* An Immense World - Ed Yong 
 * Mona's Eyes - Thomas Schlesser
 * Bad Blood - John Carreyrou
 * The Bluest Eye - Toni Morrison
@@ -50,9 +48,10 @@ Currently Reading
 
 Shelved - To Be Read!
 -----
-* The Odyssey - Homer
-* A Confederacy of Dunces - John Kennedy Toole
-* Lucky Jim - Kingsley Amis
-* Doughnut Economics: 7 Ways to Think Like a 21st Century Economist - Kate Raworth
-* Projections - Karl Deisseroth
+* Beloved - Toni Morrison
+* Catch-22 - Joseph Heller
 * The Stranger - Albert Camus
+* Lucky Jim - Kingsley Amis
+* The Brain from Inside Out - György Buzsáki
+* The Odyssey - Homer
+* Doughnut Economics: 7 Ways to Think Like a 21st Century Economist - Kate Raworth

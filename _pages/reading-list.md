@@ -13,11 +13,13 @@ I like books! I'm always happy to exchange thoughts on any of these volumes.
 
 Currently Reading 
 -----
-* The Master and Margarita - Mikhail Bulgakov
+* Island - Aldous Huxley
 * Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter 
 
 2026 
 ----
+* The Stranger - Albert Camus [*a classic that i'll be returning to*]
+* The Master and Margarita - Mikhail Bulgakov [*long live behemoth*]
 * A Confederacy of Dunces - John Kennedy Toole [*ignatius can eat dirt*]
 * Crime and Punishment - Fyodor Dostoevsky [*a classic for a reason*]
 * Stoner - John Williams [*a solemn and romantic tribute to the life of an academic*]
@@ -50,7 +52,6 @@ Shelved - To Be Read!
 -----
 * Beloved - Toni Morrison
 * Catch-22 - Joseph Heller
-* The Stranger - Albert Camus
 * Lucky Jim - Kingsley Amis
 * The Brain from Inside Out - György Buzsáki
 * The Odyssey - Homer

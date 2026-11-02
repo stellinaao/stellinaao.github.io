@@ -15,4 +15,4 @@ I'm an M.S. student in Bioengineering at UCLA, advised by Dr. Anne Churchland. I
 I love to learn about all things neuroscience, computers, and (pure) math. Please reach out if you'd like to chat about those topics or otherwise!
 
 ---
-In no particular order, I also enjoy collecting dad jokes, dissecting drum patterns, Impressionism, dancing, exploring Westwood, and fruit juice.
+In no particular order, I also enjoy collecting dad jokes, making music, Impressionism, dancing, exploring Westwood, and fruit juice.
